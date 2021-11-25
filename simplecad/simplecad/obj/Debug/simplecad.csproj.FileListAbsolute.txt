@@ -1,0 +1,10 @@
+D:\RPO\simplecad\simplecad\bin\Debug\simplecad.exe.config
+D:\RPO\simplecad\simplecad\bin\Debug\simplecad.exe
+D:\RPO\simplecad\simplecad\bin\Debug\simplecad.pdb
+D:\RPO\simplecad\simplecad\obj\Debug\simplecad.Properties.Resources.resources
+D:\RPO\simplecad\simplecad\obj\Debug\simplecad.csproj.GenerateResource.cache
+D:\RPO\simplecad\simplecad\obj\Debug\simplecad.csproj.CoreCompileInputs.cache
+D:\RPO\simplecad\simplecad\obj\Debug\simplecad.exe
+D:\RPO\simplecad\simplecad\obj\Debug\simplecad.pdb
+D:\RPO\simplecad\simplecad\obj\Debug\simplecad.Form1.resources
+D:\RPO\simplecad\simplecad\obj\Debug\simplecad.csproj.AssemblyReference.cache
